@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MUSIC PLAYER</string>
+    <string name="artist">Artists</string>
+    <string name="album">Albums</string>
+    <string name="albumtwo">Albums2</string>
+    <string name="main">Main Songs</string>
+    <string name="list">Other Songs</string>
+
+    <string name="song1">Hook</string>
+    <string name="song2">Look</string>
+    <string name="song3">Rook</string>
+    <string name="song4">Sook</string>
+    <string name="song5">Books</string>
+
+
+    <string name="artist1">Artist:Nyashinski</string>
+    <string name="artist2">Artist:Clepto</string>
+    <string name="artist3">Artist:Pentp</string>
+
+    <string name="album1">Album:Olla</string>
+    <string name="album2">Album:Hello</string>
+
+
+</resources>
+

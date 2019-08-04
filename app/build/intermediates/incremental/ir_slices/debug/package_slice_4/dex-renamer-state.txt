@@ -1,0 +1,4 @@
+#Fri Sep 21 16:41:45 EAT 2018
+base.0=/home/philomena/Downloads/MusicalStructureApp/app/build/intermediates/transforms/dexMerger/debug/4
+path.0=classes.dex
+renamed.0=classes.dex
